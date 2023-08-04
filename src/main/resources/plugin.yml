@@ -1,0 +1,4 @@
+name: antiStringDupe
+version: '${project.version}'
+main: thedavid.antistringdupe.AntiStringDupe
+api-version: '1.20'
